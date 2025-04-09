@@ -6,8 +6,7 @@ This is a fully functional **Task Manager Application** built entirely using **L
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
+git clone https://github.com/syedmatheen77/Task-Manager.git
 
 2. composer install
 3. npm install
